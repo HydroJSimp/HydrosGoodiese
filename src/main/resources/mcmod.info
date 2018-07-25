@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hydrogoodies",
+  "name": "Hydro-Goodies",
+  "description": "Adds textureless Items and Blocks for retexture and machinima purposes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HydroSimp"],
+  "credits": "LoreMaster, Lucraft and Forge I guess?",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

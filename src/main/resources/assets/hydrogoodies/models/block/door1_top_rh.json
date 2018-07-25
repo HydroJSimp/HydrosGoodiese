@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "hydrogoodies:blocks/door1_lower",
+        "top": "hydrogoodies:blocks/door1_upper"
+    }
+}

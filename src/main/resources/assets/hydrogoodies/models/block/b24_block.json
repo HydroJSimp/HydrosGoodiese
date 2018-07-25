@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "hydrogoodies:blocks/b24_block"
+   }
+}
